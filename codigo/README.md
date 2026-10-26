@@ -1,5 +1,5 @@
 # Código reproducible
 
-Carpeta destinada a los programas que generan ejemplos numéricos y figuras de los apuntes. Se organizarán por lenguaje y documento cuando se reciban los archivos.
+Los programas de Python y MATLAB de la colección actual están incluidos como listados dentro de los archivos `.tex` correspondientes. Las figuras están definidas con TikZ y PGFPlots dentro de esos mismos documentos.
 
-Cada programa debe indicar sus dependencias, cómo ejecutarlo y dónde guarda sus resultados. Las imágenes generadas están excluidas de Git; se conserva el código necesario para reproducirlas.
+Esta carpeta queda disponible para futuros programas independientes. Cuando se incorporen, se indicarán sus dependencias, ejecución y carpeta de resultados.

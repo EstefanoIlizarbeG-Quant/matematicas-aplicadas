@@ -1,3 +1,5 @@
 # Bibliografía
 
-Carpeta destinada a archivos `.bib` compartidos entre apuntes. Las bibliografías particulares también pueden guardarse junto a su documento.
+Las referencias de los nueve apuntes actuales están incluidas en sus respectivos archivos `.tex`; no requieren archivos `.bib` externos.
+
+Esta carpeta queda disponible para futuras bibliografías compartidas.

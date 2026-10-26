@@ -1,7 +1,14 @@
 # Notas matemáticas
 
-Los apuntes se organizarán por tema después de revisar los archivos recibidos. Cada documento tendrá su propia carpeta, con el archivo principal y sus dependencias.
+El catálogo completo está en el [README principal](../README.md#apuntes-disponibles).
 
-Ejemplo de ruta: `notas/algebra_lineal/espacios_vectoriales/main.tex`.
+| Carpeta | Documentos |
+| --- | ---: |
+| [`algebra_lineal/`](algebra_lineal/) | 2 |
+| [`probabilidad/`](probabilidad/) | 1 |
+| [`econometria/`](econometria/) | 4 |
+| [`metodos_numericos/`](metodos_numericos/) | 2 |
 
-Para cada documento se indicará su contenido, archivo principal y forma de compilación.
+Cada archivo `.tex` es un documento principal independiente y contiene sus figuras y referencias. Compilar uno a la vez con pdfLaTeX y `latexmk`; consultar [COMPILACION.md](../COMPILACION.md).
+
+Los nombres de tres archivos se normalizaron para eliminar el sufijo de descarga ` (1)`. El contenido de los nueve `.tex` se conserva igual al recibido.
