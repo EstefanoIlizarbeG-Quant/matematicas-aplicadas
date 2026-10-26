@@ -1,0 +1,10 @@
+* text=auto
+*.tex text eol=lf
+*.bib text eol=lf
+*.sty text eol=lf
+*.cls text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.m text eol=lf
+.latexmkrc text eol=lf
